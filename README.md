@@ -5,7 +5,6 @@
 <h3>&nbsp;Sobre mim:</h3>
 
 - 🥇 &nbsp; Nas horas vagas pratico esportes, vou a praia, assisto filmes e séries.
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **FULL STACK WEB DEVELOPER** na <a href="[link da sua faculdade](https://www.growdev.com.br/)">GROWDEV</a>.
 - 💼 &nbsp; Trabalhando como **AUXILIAR DE FATURAMENTO**.
 - 🌱 &nbsp; Aprendendo mais sobre **FRONT-END: html - css- js- ts- react js - redux - redux toolkit- + frameworks
