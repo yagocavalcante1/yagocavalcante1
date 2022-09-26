@@ -4,6 +4,7 @@
 <h3> Yago Cavalcante 👱‍♂️ </h3>
 <h3>&nbsp;Sobre mim:</h3>
 
+- 🥇 &nbsp; Nas horas vagas pratico esportes, vou a praia, assisto filmes e séries.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **FULL STACK WEB DEVELOPER** na <a href="[link da sua faculdade](https://www.growdev.com.br/)">GROWDEV</a>.
 - 💼 &nbsp; Trabalhando como **AUXILIAR DE FATURAMENTO**.
@@ -25,9 +26,3 @@ BACK END: ts - express- +framewors - banco sql e noSql - swagger - orm - tdd - d
 <br/>
 
 <br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-YAGO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
